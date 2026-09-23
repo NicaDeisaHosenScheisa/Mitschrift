@@ -28,3 +28,10 @@
  
 In den 1990er Jahren wurden Websites überwiegend statisch erstellt. Inhalte wurden als html-files auf einen Webserver hochgeladen. Bei jedem Aufruf der Website wurde der gleiche Inhalt angezeigt, unabhängig davon, wer die Seite besuchte. Solche Websites werden als statische Websites bezeichnet.
  
+ ![alt text](image.png)
+
+Die Abbildung zeigt, die Funktionsweise von statischen Websites. Zuerst muss der Domain-Name über das Domain Name System (DNS) in die IP-Adresse des Webservers aufgelöst werden (Schritt 1 und 2 in der Abbildung dargestellt).
+
+![alt text](image-1.png)
+
+Die Abbildung zeigt.
