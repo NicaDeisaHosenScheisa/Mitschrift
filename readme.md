@@ -34,4 +34,4 @@ Die Abbildung zeigt, die Funktionsweise von statischen Websites. Zuerst muss der
 
 ![alt text](image-1.png)
 
-Die Abbildung zeigt.
+Die Abbildung zeigt die Funktionsweise von statischen Websites. Zuerst muss der Domain-Name über das Domain Name System (DNS) in die IP-Adresse des Webservers aufgelöst werden (Schritt 1 und 2 in der Abbildung). Danach schickt der Client eine http-Anfrage an den entsprechenden Webserver und erhält von diesem eine http-Antwort, die überlicherweise zuerst die `index.html`enthält (Schritt 3 und 4).
